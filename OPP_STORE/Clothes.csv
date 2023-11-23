@@ -1,0 +1,21 @@
+﻿;gender;clothes;sizes;color;price
+1;Male;T-Shirt;Meduim;white;9.99
+2;Male;T-Shirt;Large;Red;11.99
+3;Male;T-Shirt;X-Large;green;13.99
+4;Male;Jeans;Large;blue;10.99
+5;Male;Jeans;X-Large;black;14.99
+6;Male;Jeans;2X-Large;gray;16.99
+7;Male;Formal Suit;X-Large;ink blue;249
+8;Male;Formal Suit;2X-Large;gray;279
+9;Female;Dress;Meduim;pink;29.99
+10;Female;Dress;Large;Violet;39.99
+11;Female;sheath Dress;Large;cyan;189
+12;Female;sheath Dress;X-Large;brown;219
+13;Female;Skirt;Small;red velvet;15.99
+14;Female;Skirt;Meduim;turqouise;20.99
+15;Female;Wedding Dress;18-22;white;699
+16;Female;Wedding Dress;24-28;plum;799
+17;Male;Sneakers;30-45;twilight blue;47.99
+18;Male;Boots;30-45;canteen;59.99
+19;Female;Dress shoes;25-40;grape;66.99
+20;Female;High-Heeled shoes;25-40;maple brown;92.99
